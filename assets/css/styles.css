@@ -24,7 +24,7 @@ html {
     left: 8.07%;
     right: 58.82%;
     top: calc(50% - 60px/2 - 343px);
-    font-family: 'Arial';
+    font-family: 'Arial', serif;
     font-weight: 700;
     font-size: 24px;
     line-height: 28px;
@@ -51,7 +51,7 @@ html {
     left: 48px;
 }
 .category, .duration, .info, .social_networks_links {
-    font-family:'Inter';
+    font-family: 'Inter', serif;
     font-weight: 500;
     font-size: 10px;
     color: #73808D;
